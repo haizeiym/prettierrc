@@ -1,0 +1,11 @@
+{
+    "printWidth": 800,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "endOfLine": "cr",
+    "stylelintIntegration": false,
+    "eslintIntegration": false,
+    "requireConfig": true,
+    "usePrettierrc": true,
+    "embeddedLanguageFormatting": "off"
+}
